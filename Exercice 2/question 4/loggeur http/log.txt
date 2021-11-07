@@ -1,0 +1,226 @@
+Request at 22 : 25 : 36
+GET /test1.html HTTP/1.1Size of the file : 376
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry</title>
+</head>
+<body>
+    <h1>You don't have the rights to look at this file, sorry :/</h1>
+</body>
+</html>
+
+Request at 22 : 25 : 37
+GET /favicon.ico HTTP/1.1Size of the file : 106
+Response is : 
+HTTP/1.1 404 Not Found
+Server : Python HTTP Server
+Connection : close
+
+
+
+Request at 22 : 26 : 03
+GET /test2.html HTTP/1.1Size of the file : 376
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry</title>
+</head>
+<body>
+    <h1>You don't have the rights to look at this file, sorry :/</h1>
+</body>
+</html>
+
+Request at 22 : 26 : 19
+GET /test3.html HTTP/1.1Size of the file : 351
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test3</title>
+</head>
+<body>
+    <h1>Attends man j'ai pas compris...</h1>
+</body>
+</html>
+
+Request at 22 : 29 : 17
+GET /test1.html HTTP/1.1Size of the file : 376
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry</title>
+</head>
+<body>
+    <h1>You don't have the rights to look at this file, sorry :/</h1>
+</body>
+</html>
+
+Request at 22 : 29 : 17
+GET /favicon.ico HTTP/1.1Size of the file : 106
+Response is : 
+HTTP/1.1 404 Not Found
+Server : Python HTTP Server
+Connection : close
+
+
+
+Request at 22 : 32 : 37
+GET /test1.html HTTP/1.1Size of the file : 376
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry</title>
+</head>
+<body>
+    <h1>You don't have the rights to look at this file, sorry :/</h1>
+</body>
+</html>
+
+Request at 22 : 32 : 37
+GET /favicon.ico HTTP/1.1Size of the file : 106
+Response is : 
+HTTP/1.1 404 Not Found
+Server : Python HTTP Server
+Connection : close
+
+
+
+Request at 22 : 32 : 55
+GET /test2.html HTTP/1.1Size of the file : 376
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry</title>
+</head>
+<body>
+    <h1>You don't have the rights to look at this file, sorry :/</h1>
+</body>
+</html>
+
+Request at 22 : 32 : 58
+GET /test3.html HTTP/1.1Size of the file : 351
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test3</title>
+</head>
+<body>
+    <h1>Attends man j'ai pas compris...</h1>
+</body>
+</html>
+
+Request at 22 : 47 : 46
+GET /test1.html HTTP/1.1Size of the file : 376
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry</title>
+</head>
+<body>
+    <h1>You don't have the rights to look at this file, sorry :/</h1>
+</body>
+</html>
+
+Request at 22 : 47 : 46
+GET /favicon.ico HTTP/1.1Size of the file : 106
+Response is : 
+HTTP/1.1 404 Not Found
+Server : Python HTTP Server
+Connection : close
+
+
+
+Request at 22 : 48 : 34
+GET /test2.html HTTP/1.1Size of the file : 376
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry</title>
+</head>
+<body>
+    <h1>You don't have the rights to look at this file, sorry :/</h1>
+</body>
+</html>
+
+Request at 22 : 49 : 22
+GET /test3.html HTTP/1.1Size of the file : 351
+Response is : 
+HTTP/1.1 200 OK
+Server : Python HTTP Server
+Connection : close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test3</title>
+</head>
+<body>
+    <h1>Attends man j'ai pas compris...</h1>
+</body>
+</html>
+
